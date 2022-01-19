@@ -1,0 +1,21 @@
+{
+    "name": "chengding/salary-algorithm",
+    "description": "Lazy Executive Salary Algorithm Of Chengding",
+    "type": "library",
+    "require": {
+        "php": ">=5.6"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zengweiyou",
+            "email": "513094459@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Salary\\": "src"
+        }
+    }
+}
